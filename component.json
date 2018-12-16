@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Шаблон блога",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/blog",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "articles-list": "https://github.com/insales-components/articles-list",
+    "article-right-column": "https://github.com/insales-components/article-right-column",
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
